@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mvvm</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_check_amount_hint">Check</string>
+    <string name="input_tip_amount_hint">Tip Percentage</string>
+    <string name="check_label">Check</string>
+    <string name="tip_label">Tip</string>
+    <string name="total_label">Total</string>
+
+    <string name="dollar_amount">$%1$.02f</string>
+
+    <string name="save_hint">Enter Location</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+
+</resources>
